@@ -29,7 +29,7 @@ See [CONTRIBUTING](CONTRIBUTING.md#security-issue-notifications) for more inform
 
 This project is licensed under the Apache-2.0 License.
 
-### References
+## References
 
 [1] LDC93S5 ATIS2, LDC94S19 ATIS3 Training Data, LDC95S26 ATIS3 Test Data
 
