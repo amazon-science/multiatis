@@ -1,11 +1,15 @@
-## My Project
+## MultiAtis++ Data and Soft-Align Method Implementation
 
-TODO: Fill this README out!
+###### Accessing MultiAtis++
 
-Be sure to:
+To obtain a copy of *MutliAtis++* data, please email multiatis@amazon.com.
 
-* Change the title in this README
-* Edit your repository description on GitHub
+
+###### Code
+
+Implementation of *soft-align* method introduced in the paper "End-to-End Slot Alignment and Recognition for Cross-Lingual NLU" (EMNLP 2020) will be available at this location, soon.
+
+
 
 ## Security
 
