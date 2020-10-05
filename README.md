@@ -1,4 +1,4 @@
-## MultiAtis++ Data
+## MultiAtis++ Corpus
 
 The ATIS (Air Travel Information Services) collection was developed to support the research and development of speech understanding systems [1]. The original English data includes intent and slot annotations, and was later extended to Hindi and Turkish [2]. MultiATIS++ futher extends ATIS to 6 more languages, and hence, covers a total of 9 languages, that is, English, Spanish, German, French, Portuguese, Chinese, Japanese, Hindi and Turkish. These locales  belong to a diverse set of language families- Indo-European, Sino-Tibetan, Japonic and Altaic.
 
@@ -7,13 +7,18 @@ MultiATIS++ corpus has been outsourced to foster further research in the domain 
 For more details, please check the paper:
 Xu, W., Haider, B. and Mansour, S., 2020. End-to-End Slot Alignment and Recognition for Cross-Lingual NLU. arXiv preprint arXiv:2004.14353 (https://arxiv.org/abs/2004.14353)
 
-### Accessing MultiAtis++
+##### Accessing MultiAtis++
 
 To obtain a copy of *MutliAtis++* data, please email multiatis@amazon.com.
 
-### Citation
+##### Citation
 
 Please cite [3] when referring to the MultiATIS++ dataset.
+
+
+## Soft-Align Implementation
+
+Implementation of the *soft-align* method introduced in [3] will be available here, soon.
 
 
 ## Security
