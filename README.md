@@ -1,4 +1,4 @@
-## MultiAtis++ Data and Soft-Align Method Implementation
+## MultiAtis++ Data and Soft-Align Implementation
 
 ###### Accessing MultiAtis++
 
