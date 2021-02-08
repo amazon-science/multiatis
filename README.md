@@ -11,7 +11,10 @@ Xu, W., Haider, B. and Mansour, S., 2020. End-to-End Slot Alignment and Recognit
 
 ### Accessing MultiAtis++
 
-To obtain a copy of *MutliAtis++* data, please email multiatis@amazon.com.
+To obtain a copy of *MutliAtis++* data, please visit:
+https://catalog.ldc.upenn.edu/LDC2021T04
+
+Please send your queries/comments to multiatis@amazon.com.
 
 ### Citation
 
